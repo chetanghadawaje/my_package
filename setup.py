@@ -9,13 +9,13 @@ README = (HERE / "README.md").read_text()
 
 # This call to setup() does all the work
 setup(
-    name="my_package",
-    version="1.0.0",
+    name="my_package_chetan",
+    version="2.0.0",
     description="Read the latest my_package.",
     long_description=README,
     long_description_content_type="text/markdown",
     url="https://github.com/chetanghadawaje/my_package.git",
-    author="Real Python",
+    author="Chetan Ghadawaje",
     author_email="chetanghadawaje@gmail.com",
     license="MIT",
     classifiers=[
